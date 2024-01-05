@@ -11,11 +11,9 @@ from imblearn.over_sampling import SMOTE
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import MinMaxScaler
 
-"""
-Nama: Diaz Islami
-NIM: A11.2020.13116
-Kelompok: BKDS02
-"""
+#Nama: Diaz Islami
+#NIM: A11.2020.13116
+#Kelompok: BKDS02
 
 # load dataset
 processed_data = pd.read_csv("data/processed_data.csv")
