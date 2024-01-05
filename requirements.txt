@@ -1,8 +1,8 @@
 scikit-learn==1.2.2
 imbalanced-learn==0.11.0
-pandas
-numpy
-streamlit
+pandas==2.1.1
+numpy==1.26.0
+streamlit==1.22.0
 matplotlib
 altair
-xgboost
+xgboost==2.0.2
